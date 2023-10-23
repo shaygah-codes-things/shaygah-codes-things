@@ -1,6 +1,6 @@
 # Hi there, I'm @shaygah-codes-things 👋
 
-👨‍💻 Aspiring developer on a quest to unravel the mysteries of code - one bug at a time!
+👩🏻‍💻 Aspiring developer on a quest to unravel the mysteries of code - one bug at a time!
 
 🔍 I'm currently involved with Ruby 💎, Angular 🅰️, and the styling magic of Tailwind CSS 🪄.
 
